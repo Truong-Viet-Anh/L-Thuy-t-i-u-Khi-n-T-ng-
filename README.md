@@ -1,1 +1,1 @@
-# L-Thuy-t-i-u-Khi-n-T-ng-
+Lý Thuyết Điều Khiển tự động có file word và excel số liệu là thứ cần làm
